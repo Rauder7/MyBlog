@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - Tag - Rauders Blog 🥳</title>
-    <link>https://example.org/tags/</link>
+    <link>https://rauder7.github.io/MyBlog/tags/</link>
     <description>Rauders Blog 🥳</description>
     <generator>Hugo 0.139.0 &amp; FixIt v0.3.15</generator>
     <language>es-es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rauder7.github.io/MyBlog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
