@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rauders Blog 🥳</title>
-    <link>http://localhost:1313/</link>
+    <title>Categories - Category - Rauders Blog 🥳</title>
+    <link>https://example.org/categories/</link>
     <description>Rauders Blog 🥳</description>
     <generator>Hugo 0.139.0 &amp; FixIt v0.3.15</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
